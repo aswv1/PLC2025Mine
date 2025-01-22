@@ -1,5 +1,6 @@
 class Circle {
 
+    // THIS IS A TEST FOR 22/01/2025 LAB ONE 
   public static void main(String[] args) {
     int size = 15; // Integer.parseInt(args[0]);
     Circle c = new Circle(size);
